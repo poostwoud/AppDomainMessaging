@@ -1,0 +1,9 @@
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\bin\Debug\AppDomainMessaging.dll
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\bin\Debug\AppDomainMessaging.pdb
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\obj\Debug\AppDomainMessaging.csprojResolveAssemblyReference.cache
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\obj\Debug\AppDomainMessaging.dll
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\obj\Debug\AppDomainMessaging.pdb
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\bin\Debug\OperationMessaging.dll
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\bin\Debug\OperationMessaging.pdb
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\bin\Debug\Newtonsoft.Json.dll
+D:\temp\TestMicroServiceAppDomain\AppDomainMessaging\bin\Debug\Newtonsoft.Json.xml

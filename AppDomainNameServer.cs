@@ -29,6 +29,11 @@ namespace AppDomainMessaging
             _records.Add(nameRecord.Name, nameRecord);
         }
 
+        public void Add(string name, string location)
+        {
+            Add(new AppDomainNameRecord(name, location));
+        }
+
         internal AppDomainProxy Resolve(string name, out Exception exception)
         {
             //*****
